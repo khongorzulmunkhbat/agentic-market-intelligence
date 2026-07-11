@@ -2,7 +2,7 @@
 
 🏆 Built for Google Agentic Architect Sprint 2026
 
-**Project Topic:** Fully Autonomous Goal Execution (/goal)
+**Project Topic:** Fully Autonomous Goal Execution
 
 Agentic Market Intelligence is a fully autonomous market research system built with Google Antigravity and Gemini. The system accepts a single business objective and autonomously plans, executes, verifies, and synthesizes multiple research tasks before producing a comprehensive market intelligence report.
 
@@ -223,7 +223,7 @@ data/
 
 ### Project Topic
 
-**Fully Autonomous Goal Execution (/goal)**
+**Fully Autonomous Goal Execution**
 
 This project demonstrates how an autonomous system can independently plan, execute, and complete complex market intelligence workflows starting from a single business objective.
 
